@@ -93,7 +93,7 @@
     </ListView>
     <ListView Id="Airport_LookupListView">
       <Columns>
-        <ColumnInfo Id="Name" Caption="Наименоавние" />
+        <ColumnInfo Id="Name" Caption="Наименование" />
       </Columns>
     </ListView>
     <ListView Id="Airport_Pilots_ListView">
